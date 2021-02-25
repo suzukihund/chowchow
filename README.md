@@ -6,6 +6,11 @@
 現状ではスタンドアロンでの使用のみで、売上情報をサーバーで管理するような機能はありません。
 対応デバイスはタブレット相当の画面サイズを想定しています（スマホサイズは今後の対応予定）。
 
+<img src="https://github.com/suzukihund/chowchow/blob/main/images/01.png" width="50%">
+<img src="https://github.com/suzukihund/chowchow/blob/main/images/02.png" width="50%">
+<img src="https://github.com/suzukihund/chowchow/blob/main/images/03.png" width="50%">
+<img src="https://github.com/suzukihund/chowchow/blob/main/images/04.png" width="50%">
+
 ## TODO
 * スマホサイズへの対応
 * 商品一覧画面のソート対応
